@@ -13,6 +13,5 @@ Current version: 0.5
 + Migrate to Rapsberry Pi
 
 ##Future development:
-+ #Plot.ly integration
-+ + Show bar chart of word frequencies
++ Plot.ly integration (Show bar chart of word frequencies)
 ---
