@@ -14,4 +14,3 @@ Current version: 0.5
 
 ##Future development:
 + Plot.ly integration (Show bar chart of word frequencies)
----
